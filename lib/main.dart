@@ -52,7 +52,7 @@ class PetrolHomePage extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.lightBlue,
+        backgroundColor: Colors.orange,
         title: const Text('History'),
       ),
       body: page,
